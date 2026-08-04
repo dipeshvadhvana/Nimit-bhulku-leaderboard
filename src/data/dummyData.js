@@ -7,12 +7,10 @@ const MENTORS = [
 ];
 
 const TEAM_NAMES = [
-  "Team Radiance",
-  "Team Momentum",
-  "Team Zenith",
-  "Team Vanguard",
-  "Team Ember",
-  "Team Horizon",
+  "SEVA",
+  "Smruti,
+  "Suhradbhav",
+  "Swadharm",
 ];
 
 const FIRST_NAMES = [
